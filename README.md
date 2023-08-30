@@ -1,2 +1,3 @@
-# lab1-pi
-lab 1 paralela
+# lab2-productopuntomatriz
+
+lab 2 paralela
